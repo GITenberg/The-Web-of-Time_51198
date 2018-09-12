@@ -1,0 +1,27 @@
+_repo: The-Web-of-Time_51198
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knowles, Robert E. (Robert Edward)
+    aliases:
+    - Knowles, R. E. (Robert Edward)
+    - Knowles, Robert Edward
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '25031'
+    url: http://www.gutenberg.org/2009/agents/25031
+description: ''
+gutenberg_issued: '2016-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canadian fiction -- 20th century'
+- GITenberg
+title: The Web of Time
+url: http://www.gutenberg.org/ebooks/51198
